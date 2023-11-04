@@ -1,0 +1,11 @@
+flask
+numpy
+scipy>=1.4.1
+wget>=3.2
+seaborn>=0.10.0
+opencv-python==3.4.13.47
+tqdm==4.43.0
+pandas
+awscli
+urllib3
+mss
